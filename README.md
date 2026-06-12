@@ -93,7 +93,7 @@ future aerospace applications.
 
 ## Related Work
 
-This project is the continuition to:
+This project is the continuation to:
 > Karmakar, S., Borgohain, M., and Tharun, V. *"Modelling and Finite Element 
 > Analysis of the Combustion Chamber in the Motor Mount of the First Stage of 
 > a Missile."* Recent Advancements in Artificial Intelligence and Optimization: 
