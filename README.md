@@ -87,3 +87,16 @@ efficient and structurally robust missile system. The research contributed to
 understanding lightweight composite aerospace structures, supersonic nozzle
 optimization, thermal management, and computational design methodologies for
 future aerospace applications.
+
+---
+
+
+## Related Work
+
+This project is the continuition to:
+> Karmakar, S., Borgohain, M., and Tharun, V. *"Modelling and Finite Element 
+> Analysis of the Combustion Chamber in the Motor Mount of the First Stage of 
+> a Missile."* Recent Advancements in Artificial Intelligence and Optimization: 
+> Selected Proceedings of ICRAME 2025. Springer Nature, Accepted for 
+> Publication, June 2026.  
+> DOI: 10.1007/978-981-95-9268-5
